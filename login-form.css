@@ -27,7 +27,7 @@ form::before {
   left: 259px;
   height: 35px;
   width: 68px;
-  background-image: url(images/triangle.png);
+  background-image: url(triangle.png);
   background-repeat:no-repeat 0 0;
   content: '';
 }
